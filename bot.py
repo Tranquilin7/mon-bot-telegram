@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 import os
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("7787799268:AAGVvzFkbpQ3Fw-o9m7ZvDQscbcvGgHvToE")
 
 # === Dictionnaire des contenus ===
 contents = {
